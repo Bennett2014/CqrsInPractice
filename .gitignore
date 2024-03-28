@@ -1,3 +1,5 @@
+**/appsettings.json
+
 out
 .svn
 obj
@@ -17,3 +19,4 @@ _ReSharper*
 project.lock.json
 project.fragment.lock.json
 .vs
+/After/src/Api/appsettings.json
